@@ -1,26 +1,15 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+## Account Secrets is a Replacement for Account Questions
 
-## How to use this template
+Instead of answering the recovery questions with the truth, obfiscate with the answers from the ones from the app.
 
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/driftyco/ionic2-app-base).
+# Example
 
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/driftyco/ionic2-app-base).
+Your bank asks: "What's your mother's maiden name?" 
 
-### With the Ionic CLI:
+You go to the app and select your bank's question and the app gives you a different question
 
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
+It says: "What color was your first car?"
 
-```bash
-$ sudo npm install -g ionic cordova
-$ ionic start myBlank blank
-```
+You enter "Blue" (obviously the real color of your car)
 
-Then, to run it, cd into `myBlank` and run:
-
-```bash
-$ ionic cordova platform add ios
-$ ionic cordova run ios
-```
-
-Substitute ios for android if not on a Mac.
-
+And then enter that in the bank's input field

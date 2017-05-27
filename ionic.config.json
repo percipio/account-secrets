@@ -1,5 +1,5 @@
 {
-  "name": "AccountSecrets",
-  "app_id": "",
+  "name": "MyEventManager",
+  "app_id": "bd8cb0e9",
   "type": "ionic-angular"
 }
